@@ -4,3 +4,6 @@
 [submodule "SimpleCommandsAndVisualStudio-Exercise"]
 	path = SimpleCommandsAndVisualStudio-Exercise
 	url = https://github.com/YasenKirilovORH/SimpleCommandsAndVisualStudio-Exercise
+[submodule "DataTypesAndVariables-Lab"]
+	path = DataTypesAndVariables-Lab
+	url = https://github.com/YasenKirilovORH/DataTypesAndVariables-Lab
