@@ -1,0 +1,6 @@
+[submodule "01.VisualStudio-Lab"]
+	path = 01.VisualStudio-Lab
+	url = https://github.com/YasenKirilovORH/01.VisualStudio-Lab
+[submodule "SimpleCommandsAndVisualStudio-Exercise"]
+	path = SimpleCommandsAndVisualStudio-Exercise
+	url = https://github.com/YasenKirilovORH/SimpleCommandsAndVisualStudio-Exercise
