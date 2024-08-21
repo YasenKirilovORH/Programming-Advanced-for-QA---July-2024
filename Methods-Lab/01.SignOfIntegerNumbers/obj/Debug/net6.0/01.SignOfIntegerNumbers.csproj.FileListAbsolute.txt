@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll

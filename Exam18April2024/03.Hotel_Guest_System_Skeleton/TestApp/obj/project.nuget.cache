@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LPbtoxxhhow3JufJ3IF2SZ4JoEseVtZxLuwMa46VcKSuKwWZdjNZ1BX0Ie8v1kZyxJHr8sN11sk+UIGyG4tgAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasen\\Desktop\\Exam preparation -Previous Exams\\From Exam 18 April 2024\\03.Hotel_Guest_System_Skeleton\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

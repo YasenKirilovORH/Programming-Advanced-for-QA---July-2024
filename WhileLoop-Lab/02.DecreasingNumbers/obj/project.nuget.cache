@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6oSQE5gilLYVV129HR6eBaBAXy0cpy5nvQcnNBb4Z5t5CRPASq3YkKpgvFeTZ80jgUNz0Ns36315It1QJFJhVA==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\02.DecreasingNumbers\\02.DecreasingNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\bin\Debug\net6.0\01.Freezing Weather.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\refint\01.Freezing Weather.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\01.Freezing Weather.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\01.Freezing Weather\obj\Debug\net6.0\ref\01.Freezing Weather.dll

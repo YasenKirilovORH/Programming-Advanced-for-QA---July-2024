@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A79E7D4-F543-45DE-AD7B-18148AD2695F}|02.Students\\02.Students.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\02.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A79E7D4-F543-45DE-AD7B-18148AD2695F}|02.Students\\02.Students.csproj|solutionrelative:02.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A79E7D4-F543-45DE-AD7B-18148AD2695F}|02.Students\\02.Students.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\02.students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A79E7D4-F543-45DE-AD7B-18148AD2695F}|02.Students\\02.Students.csproj|solutionrelative:02.students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\04.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|solutionrelative:04.vehiclecatalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\04.vehiclecatalogue\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|solutionrelative:04.vehiclecatalogue\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\04.vehiclecatalogue\\truck .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|solutionrelative:04.vehiclecatalogue\\truck .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\04.vehiclecatalogue\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E155E6-9CDC-422C-A0E3-CAA43BDCD731}|04.VehicleCatalogue\\04.VehicleCatalogue.csproj|solutionrelative:04.vehiclecatalogue\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E58E975-D36A-49F6-8B68-80E00C05C695}|01.Songs\\01.Songs.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\01.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E58E975-D36A-49F6-8B68-80E00C05C695}|01.Songs\\01.Songs.csproj|solutionrelative:01.songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\03.storeboxes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|solutionrelative:03.storeboxes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\03.storeboxes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|solutionrelative:03.storeboxes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\03.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BB1D36-1D2B-459F-BD50-A3E5777F6C92}|03.StoreBoxes\\03.StoreBoxes.csproj|solutionrelative:03.storeboxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E58E975-D36A-49F6-8B68-80E00C05C695}|01.Songs\\01.Songs.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-lab\\01.songs\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E58E975-D36A-49F6-8B68-80E00C05C695}|01.Songs\\01.Songs.csproj|solutionrelative:01.songs\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Catalog.cs",
+              "RelativeDocumentMoniker": "04.VehicleCatalogue\\Catalog.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Catalog.cs",
+              "RelativeToolTip": "04.VehicleCatalogue\\Catalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:50:37.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Car.cs",
+              "RelativeDocumentMoniker": "04.VehicleCatalogue\\Car.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Car.cs",
+              "RelativeToolTip": "04.VehicleCatalogue\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:48:48.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Truck .cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Truck .cs",
+              "RelativeDocumentMoniker": "04.VehicleCatalogue\\Truck .cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Truck .cs",
+              "RelativeToolTip": "04.VehicleCatalogue\\Truck .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:45:11.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Program.cs",
+              "RelativeDocumentMoniker": "04.VehicleCatalogue\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\04.VehicleCatalogue\\Program.cs",
+              "RelativeToolTip": "04.VehicleCatalogue\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:44:38.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Box.cs",
+              "RelativeDocumentMoniker": "03.StoreBoxes\\Box.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Box.cs",
+              "RelativeToolTip": "03.StoreBoxes\\Box.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:02:44.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Item.cs",
+              "RelativeDocumentMoniker": "03.StoreBoxes\\Item.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Item.cs",
+              "RelativeToolTip": "03.StoreBoxes\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:00:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\02.Students\\Student.cs",
+              "RelativeDocumentMoniker": "02.Students\\Student.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\02.Students\\Student.cs",
+              "RelativeToolTip": "02.Students\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:17:45.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\02.Students\\Program.cs",
+              "RelativeDocumentMoniker": "02.Students\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\02.Students\\Program.cs",
+              "RelativeToolTip": "02.Students\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:17:21.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\01.Songs\\Program.cs",
+              "RelativeDocumentMoniker": "01.Songs\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\01.Songs\\Program.cs",
+              "RelativeToolTip": "01.Songs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:02:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Program.cs",
+              "RelativeDocumentMoniker": "03.StoreBoxes\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\03.StoreBoxes\\Program.cs",
+              "RelativeToolTip": "03.StoreBoxes\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:00:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\01.Songs\\Song.cs",
+              "RelativeDocumentMoniker": "01.Songs\\Song.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Lab\\01.Songs\\Song.cs",
+              "RelativeToolTip": "01.Songs\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:05:24.289Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

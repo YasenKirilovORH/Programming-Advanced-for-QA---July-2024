@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\bin\Debug\net6.0\03.RectangleArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\refint\03.RectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\03.RectangleArea.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\03.RectangleArea\obj\Debug\net6.0\ref\03.RectangleArea.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\refint\08.AccountBalance.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\08.AccountBalance\obj\Debug\net6.0\ref\08.AccountBalance.dll

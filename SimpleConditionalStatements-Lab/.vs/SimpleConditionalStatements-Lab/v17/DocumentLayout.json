@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9A5BEF-E5CB-4092-A194-D3D0BEFE5989}|11.CoffeeShop\\11.CoffeeShop.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\11.coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9A5BEF-E5CB-4092-A194-D3D0BEFE5989}|11.CoffeeShop\\11.CoffeeShop.csproj|solutionrelative:11.coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519CC999-BFE3-4927-9238-FDB5BE3DA922}|07.SpeedInfo\\07.SpeedInfo.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\07.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519CC999-BFE3-4927-9238-FDB5BE3DA922}|07.SpeedInfo\\07.SpeedInfo.csproj|solutionrelative:07.speedinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52DAC150-79AD-4061-9C33-B768343EE88E}|10.ValidTriangle\\10.ValidTriangle.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\10.validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52DAC150-79AD-4061-9C33-B768343EE88E}|10.ValidTriangle\\10.ValidTriangle.csproj|solutionrelative:10.validtriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED7B838-4996-49D1-90E4-6F361CC2998A}|09.AreaOfFigures\\09.AreaOfFigures.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\09.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED7B838-4996-49D1-90E4-6F361CC2998A}|09.AreaOfFigures\\09.AreaOfFigures.csproj|solutionrelative:09.areaoffigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0F31DA-4575-4788-AD2C-6B898F1AB630}|08.TicketPrice\\08.TicketPrice.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\08.ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0F31DA-4575-4788-AD2C-6B898F1AB630}|08.TicketPrice\\08.TicketPrice.csproj|solutionrelative:08.ticketprice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD0C583-1085-4C7C-A15B-29D6216A096D}|06.BoilingWater\\06.BoilingWater.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD0C583-1085-4C7C-A15B-29D6216A096D}|06.BoilingWater\\06.BoilingWater.csproj|solutionrelative:06.boilingwater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B14925-FAAC-4ECE-89DB-9AEDE82DE0ED}|04.GreaterNumber\\04.GreaterNumber.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\04.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B14925-FAAC-4ECE-89DB-9AEDE82DE0ED}|04.GreaterNumber\\04.GreaterNumber.csproj|solutionrelative:04.greaternumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA93EE8-1B53-4CE9-A3F6-18CE3C067602}|05.GuessThePassword\\05.GuessThePassword.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\05.guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA93EE8-1B53-4CE9-A3F6-18CE3C067602}|05.GuessThePassword\\05.GuessThePassword.csproj|solutionrelative:05.guessthepassword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF14E131-3EAF-4C1B-BA59-BFE836E8D620}|03.Number1\u20269AsWords\\03.Number1\u20269AsWords.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\03.number1\u20269aswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF14E131-3EAF-4C1B-BA59-BFE836E8D620}|03.Number1\u20269AsWords\\03.Number1\u20269AsWords.csproj|solutionrelative:03.number1\u20269aswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C782A7A3-A9FE-41C2-B94F-3B89D11F23F0}|02.EvenOrOdd\\02.EvenOrOdd.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\02.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C782A7A3-A9FE-41C2-B94F-3B89D11F23F0}|02.EvenOrOdd\\02.EvenOrOdd.csproj|solutionrelative:02.evenorodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539C0A08-5C48-4C47-A00C-778044E249BA}|01.Freezing Weather\\01.Freezing Weather.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\simpleconditionalstatements-lab\\01.freezing weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539C0A08-5C48-4C47-A00C-778044E249BA}|01.Freezing Weather\\01.Freezing Weather.csproj|solutionrelative:01.freezing weather\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\11.CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "11.CoffeeShop\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\11.CoffeeShop\\Program.cs",
+              "RelativeToolTip": "11.CoffeeShop\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:30:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\10.ValidTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "10.ValidTriangle\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\10.ValidTriangle\\Program.cs",
+              "RelativeToolTip": "10.ValidTriangle\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:25:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\09.AreaOfFigures\\Program.cs",
+              "RelativeDocumentMoniker": "09.AreaOfFigures\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\09.AreaOfFigures\\Program.cs",
+              "RelativeToolTip": "09.AreaOfFigures\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:11:31.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\08.TicketPrice\\Program.cs",
+              "RelativeDocumentMoniker": "08.TicketPrice\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\08.TicketPrice\\Program.cs",
+              "RelativeToolTip": "08.TicketPrice\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:03:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\07.SpeedInfo\\Program.cs",
+              "RelativeDocumentMoniker": "07.SpeedInfo\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\07.SpeedInfo\\Program.cs",
+              "RelativeToolTip": "07.SpeedInfo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T12:01:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\06.BoilingWater\\Program.cs",
+              "RelativeDocumentMoniker": "06.BoilingWater\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\06.BoilingWater\\Program.cs",
+              "RelativeToolTip": "06.BoilingWater\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:54:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\05.GuessThePassword\\Program.cs",
+              "RelativeDocumentMoniker": "05.GuessThePassword\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\05.GuessThePassword\\Program.cs",
+              "RelativeToolTip": "05.GuessThePassword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:51:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\04.GreaterNumber\\Program.cs",
+              "RelativeDocumentMoniker": "04.GreaterNumber\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\04.GreaterNumber\\Program.cs",
+              "RelativeToolTip": "04.GreaterNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:48:42.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\03.Number1\u20269AsWords\\Program.cs",
+              "RelativeDocumentMoniker": "03.Number1\u20269AsWords\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\03.Number1\u20269AsWords\\Program.cs",
+              "RelativeToolTip": "03.Number1\u20269AsWords\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:40:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\02.EvenOrOdd\\Program.cs",
+              "RelativeDocumentMoniker": "02.EvenOrOdd\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\02.EvenOrOdd\\Program.cs",
+              "RelativeToolTip": "02.EvenOrOdd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:38:12.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\01.Freezing Weather\\Program.cs",
+              "RelativeDocumentMoniker": "01.Freezing Weather\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\SimpleConditionalStatements-Lab\\01.Freezing Weather\\Program.cs",
+              "RelativeToolTip": "01.Freezing Weather\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:35:08.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fkz3kwZT+qZ3As/TBI4w0dz5OIU+zMaJ41S4ZoyIXFOK6KIAzFeo0Wj9aNe/oNFbVfk+Twb1t/T7kQmX19ik+A==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\05.BasketballEquipment\\05.BasketballEquipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

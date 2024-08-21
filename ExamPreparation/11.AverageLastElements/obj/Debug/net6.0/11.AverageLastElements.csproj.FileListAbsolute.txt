@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\bin\Debug\net6.0\11.AverageLastElements.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\bin\Debug\net6.0\11.AverageLastElements.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\bin\Debug\net6.0\11.AverageLastElements.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\bin\Debug\net6.0\11.AverageLastElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\bin\Debug\net6.0\11.AverageLastElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\refint\11.AverageLastElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\11.AverageLastElements.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\11.AverageLastElements\obj\Debug\net6.0\ref\11.AverageLastElements.dll

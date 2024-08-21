@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\bin\Debug\net6.0\06.VowelsCount.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\refint\06.VowelsCount.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\06.VowelsCount.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\06.VowelsCount\obj\Debug\net6.0\ref\06.VowelsCount.dll

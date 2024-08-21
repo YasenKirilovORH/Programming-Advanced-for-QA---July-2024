@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\bin\Debug\net6.0\03.MatchDates.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\refint\03.MatchDates.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\03.MatchDates.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\RegularExpressions-Lab\03.MatchDates\obj\Debug\net6.0\ref\03.MatchDates.dll

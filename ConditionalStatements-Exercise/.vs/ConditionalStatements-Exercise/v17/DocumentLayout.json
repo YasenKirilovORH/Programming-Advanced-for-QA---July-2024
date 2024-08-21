@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF30B5A-1BE6-4CB1-A808-CC5935E48A33}|10.SummerOutfit\\10.SummerOutfit.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF30B5A-1BE6-4CB1-A808-CC5935E48A33}|10.SummerOutfit\\10.SummerOutfit.csproj|solutionrelative:10.summeroutfit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A5403F0-FB3F-44A4-BCF1-B152B39BC831}|09.SumSeconds\\09.SumSeconds.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A5403F0-FB3F-44A4-BCF1-B152B39BC831}|09.SumSeconds\\09.SumSeconds.csproj|solutionrelative:09.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E493FF1-0A98-4D62-AE61-11E6E27FBDA1}|08.FruitOrVegetable\\08.FruitOrVegetable.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\08.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E493FF1-0A98-4D62-AE61-11E6E27FBDA1}|08.FruitOrVegetable\\08.FruitOrVegetable.csproj|solutionrelative:08.fruitorvegetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0A26C1-CD7A-47BA-AB26-DF1F0EEEC7FB}|07.WorkingHours\\07.WorkingHours.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0A26C1-CD7A-47BA-AB26-DF1F0EEEC7FB}|07.WorkingHours\\07.WorkingHours.csproj|solutionrelative:07.workinghours\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E7C66A-8C86-4EF0-8B34-192080BA9DCA}|06.ProductOfThreeNumbers\\06.ProductOfThreeNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\06.productofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E7C66A-8C86-4EF0-8B34-192080BA9DCA}|06.ProductOfThreeNumbers\\06.ProductOfThreeNumbers.csproj|solutionrelative:06.productofthreenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2183A4E9-32EB-4015-8FBF-B2B074A3734C}|04.NumberOperations\\04.NumberOperations.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\04.numberoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2183A4E9-32EB-4015-8FBF-B2B074A3734C}|04.NumberOperations\\04.NumberOperations.csproj|solutionrelative:04.numberoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84195594-1649-441D-A070-92B961AD50CC}|05.VacationExpenses\\05.VacationExpenses.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84195594-1649-441D-A070-92B961AD50CC}|05.VacationExpenses\\05.VacationExpenses.csproj|solutionrelative:05.vacationexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84089B37-6137-4E83-A624-5D217C0E25F0}|03.BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\03.biggestoffivenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84089B37-6137-4E83-A624-5D217C0E25F0}|03.BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj|solutionrelative:03.biggestoffivenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{748B8E61-E3AE-476E-98AD-4584BA6D46AC}|02.ATM\\02.ATM.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\02.atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748B8E61-E3AE-476E-98AD-4584BA6D46AC}|02.ATM\\02.ATM.csproj|solutionrelative:02.atm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059DD858-5AFC-4A1E-967B-2C1C9F374E31}|01.NumberType\\01.NumberType.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\conditionalstatements-exercise\\01.numbertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059DD858-5AFC-4A1E-967B-2C1C9F374E31}|01.NumberType\\01.NumberType.csproj|solutionrelative:01.numbertype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\10.SummerOutfit\\Program.cs",
+              "RelativeDocumentMoniker": "10.SummerOutfit\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\10.SummerOutfit\\Program.cs",
+              "RelativeToolTip": "10.SummerOutfit\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAqwDYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:47:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\09.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "09.SumSeconds\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\09.SumSeconds\\Program.cs",
+              "RelativeToolTip": "09.SumSeconds\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:40:59.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\08.FruitOrVegetable\\Program.cs",
+              "RelativeDocumentMoniker": "08.FruitOrVegetable\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\08.FruitOrVegetable\\Program.cs",
+              "RelativeToolTip": "08.FruitOrVegetable\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:37:44.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\07.WorkingHours\\Program.cs",
+              "RelativeDocumentMoniker": "07.WorkingHours\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\07.WorkingHours\\Program.cs",
+              "RelativeToolTip": "07.WorkingHours\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:27:31.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\06.ProductOfThreeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "06.ProductOfThreeNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\06.ProductOfThreeNumbers\\Program.cs",
+              "RelativeToolTip": "06.ProductOfThreeNumbers\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:08:43.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\05.VacationExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "05.VacationExpenses\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\05.VacationExpenses\\Program.cs",
+              "RelativeToolTip": "05.VacationExpenses\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:56:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\04.NumberOperations\\Program.cs",
+              "RelativeDocumentMoniker": "04.NumberOperations\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\04.NumberOperations\\Program.cs",
+              "RelativeToolTip": "04.NumberOperations\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:49:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\03.BiggestOfFiveNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.BiggestOfFiveNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\03.BiggestOfFiveNumbers\\Program.cs",
+              "RelativeToolTip": "03.BiggestOfFiveNumbers\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:44:16.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\02.ATM\\Program.cs",
+              "RelativeDocumentMoniker": "02.ATM\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\02.ATM\\Program.cs",
+              "RelativeToolTip": "02.ATM\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:36:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\01.NumberType\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumberType\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ConditionalStatements-Exercise\\01.NumberType\\Program.cs",
+              "RelativeToolTip": "01.NumberType\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:33:42.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

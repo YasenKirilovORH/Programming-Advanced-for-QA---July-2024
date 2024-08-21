@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\bin\Debug\net6.0\05.TownInfo.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\bin\Debug\net6.0\05.TownInfo.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\bin\Debug\net6.0\05.TownInfo.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\bin\Debug\net6.0\05.TownInfo.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\bin\Debug\net6.0\05.TownInfo.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\refint\05.TownInfo.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\05.TownInfo.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\5.TownInfo\obj\Debug\net6.0\ref\05.TownInfo.dll

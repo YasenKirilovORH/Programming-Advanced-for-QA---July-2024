@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\bin\Debug\net6.0\01.ReversedNumbers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\bin\Debug\net6.0\01.ReversedNumbers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\bin\Debug\net6.0\01.ReversedNumbers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\bin\Debug\net6.0\01.ReversedNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\bin\Debug\net6.0\01.ReversedNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\refint\01.ReversedNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\01.ReversedNumbers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VariablesAndSimpleCalculations-Exercise\01.ReversedNumbers\obj\Debug\net6.0\ref\01.ReversedNumbers.dll

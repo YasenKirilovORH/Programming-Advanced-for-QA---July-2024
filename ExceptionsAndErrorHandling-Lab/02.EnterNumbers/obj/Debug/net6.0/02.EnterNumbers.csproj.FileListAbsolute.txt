@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExceptionsAndErrorHandling-Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll

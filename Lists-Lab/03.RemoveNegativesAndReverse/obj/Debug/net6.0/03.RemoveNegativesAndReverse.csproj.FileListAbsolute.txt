@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\bin\Debug\net6.0\03.RemoveNegativesAndReverse.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\refint\03.RemoveNegativesAndReverse.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\03.RemoveNegativesAndReverse.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\03.RemoveNegativesAndReverse\obj\Debug\net6.0\ref\03.RemoveNegativesAndReverse.dll

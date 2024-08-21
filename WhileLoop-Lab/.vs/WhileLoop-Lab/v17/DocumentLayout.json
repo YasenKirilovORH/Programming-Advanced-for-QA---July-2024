@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACCA5181-CC1A-499A-92EA-8C379D83E7DF}|08.NumberProcessor2\\08.NumberProcessor2.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\08.numberprocessor2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACCA5181-CC1A-499A-92EA-8C379D83E7DF}|08.NumberProcessor2\\08.NumberProcessor2.csproj|solutionrelative:08.numberprocessor2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A3591-5623-43A5-AEF5-FDF1C2658671}|07.NumberProcessor\\07.NumberProcessor.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A3591-5623-43A5-AEF5-FDF1C2658671}|07.NumberProcessor\\07.NumberProcessor.csproj|solutionrelative:07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C62018-8C00-4F3D-BE8E-E5C33605B3C4}|06.NumberInRange\\06.NumberInRange.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89C62018-8C00-4F3D-BE8E-E5C33605B3C4}|06.NumberInRange\\06.NumberInRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EEC58D-CF6F-413F-AD5F-047C9E553EC2}|03.OddNumber\\03.OddNumber.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\03.oddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EEC58D-CF6F-413F-AD5F-047C9E553EC2}|03.OddNumber\\03.OddNumber.csproj|solutionrelative:03.oddnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC23EE5-0B2A-40E6-80D3-755DDD833ABF}|05.SumDigits\\05.SumDigits.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC23EE5-0B2A-40E6-80D3-755DDD833ABF}|05.SumDigits\\05.SumDigits.csproj|solutionrelative:05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94679301-02D3-48D1-88AF-31F93A1A8CA8}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94679301-02D3-48D1-88AF-31F93A1A8CA8}|04.Sequence2k\u002B1\\04.Sequence2k\u002B1.csproj|solutionrelative:04.sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C836F30F-02F9-4A3E-96B0-9F1760DA8829}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C836F30F-02F9-4A3E-96B0-9F1760DA8829}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|solutionrelative:02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEC9FEE-FF7B-450E-88F0-E0C65626A354}|01.Numbers1To100\\01.Numbers1To100.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\whileloop-lab\\01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEC9FEE-FF7B-450E-88F0-E0C65626A354}|01.Numbers1To100\\01.Numbers1To100.csproj|solutionrelative:01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\08.NumberProcessor2\\Program.cs",
+              "RelativeDocumentMoniker": "08.NumberProcessor2\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\08.NumberProcessor2\\Program.cs",
+              "RelativeToolTip": "08.NumberProcessor2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:36:10.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\07.NumberProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "07.NumberProcessor\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\07.NumberProcessor\\Program.cs",
+              "RelativeToolTip": "07.NumberProcessor\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:30:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\06.NumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberInRange\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\06.NumberInRange\\Program.cs",
+              "RelativeToolTip": "06.NumberInRange\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:18:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\05.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumDigits\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\05.SumDigits\\Program.cs",
+              "RelativeToolTip": "05.SumDigits\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:08:18.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04.Sequence2k\u002B1\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\04.Sequence2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04.Sequence2k\u002B1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:03:07.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\03.OddNumber\\Program.cs",
+              "RelativeDocumentMoniker": "03.OddNumber\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\03.OddNumber\\Program.cs",
+              "RelativeToolTip": "03.OddNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:56:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\02.DecreasingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.DecreasingNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\02.DecreasingNumbers\\Program.cs",
+              "RelativeToolTip": "02.DecreasingNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:54:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\01.Numbers1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01.Numbers1To100\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\WhileLoop-Lab\\01.Numbers1To100\\Program.cs",
+              "RelativeToolTip": "01.Numbers1To100\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:50:44.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

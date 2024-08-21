@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69050519-6F42-4283-9120-B1C2930BF5EB}|09.Cinema\\09.Cinema.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\09.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69050519-6F42-4283-9120-B1C2930BF5EB}|09.Cinema\\09.Cinema.csproj|solutionrelative:09.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03470BCD-8DC6-4A71-88D9-7E513D265E04}|08.SortedNumbers\\08.SortedNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\08.sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03470BCD-8DC6-4A71-88D9-7E513D265E04}|08.SortedNumbers\\08.SortedNumbers.csproj|solutionrelative:08.sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACD3CF2-6396-4D0A-B8CA-C8F1C0E95F33}|07.VowelOrConsonant\\07.VowelOrConsonant.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\07.vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD3CF2-6396-4D0A-B8CA-C8F1C0E95F33}|07.VowelOrConsonant\\07.VowelOrConsonant.csproj|solutionrelative:07.vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{208B846E-772C-491C-B655-E5D3789E129F}|06.DayOfWeek\\06.DayOfWeek.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{208B846E-772C-491C-B655-E5D3789E129F}|06.DayOfWeek\\06.DayOfWeek.csproj|solutionrelative:06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314AB8DA-C144-4641-AAE8-FE7FCE61DFE0}|05.InvalidNumber\\05.InvalidNumber.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314AB8DA-C144-4641-AAE8-FE7FCE61DFE0}|05.InvalidNumber\\05.InvalidNumber.csproj|solutionrelative:05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1494727E-FC64-423F-8CD9-03222EA021F2}|04.FoodOrDrink\\04.FoodOrDrink.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1494727E-FC64-423F-8CD9-03222EA021F2}|04.FoodOrDrink\\04.FoodOrDrink.csproj|solutionrelative:04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AA57A4-361A-4401-BF72-BC33FB38CC04}|03.BonusScore\\03.BonusScore.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AA57A4-361A-4401-BF72-BC33FB38CC04}|03.BonusScore\\03.BonusScore.csproj|solutionrelative:03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3805C27-D336-44EE-A43D-D693DC5FC3C8}|02.LargestNumberOutOfThree\\02.LargestNumberOutOfThree.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\02.largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3805C27-D336-44EE-A43D-D693DC5FC3C8}|02.LargestNumberOutOfThree\\02.LargestNumberOutOfThree.csproj|solutionrelative:02.largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADBCC52-0698-4BB2-9016-96A220042F60}|01.MarketPlace\\01.MarketPlace.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\complexconditionalstatements-lab\\01.marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADBCC52-0698-4BB2-9016-96A220042F60}|01.MarketPlace\\01.MarketPlace.csproj|solutionrelative:01.marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\09.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "09.Cinema\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\09.Cinema\\Program.cs",
+              "RelativeToolTip": "09.Cinema\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:11:38.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\08.SortedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.SortedNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\08.SortedNumbers\\Program.cs",
+              "RelativeToolTip": "08.SortedNumbers\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:06:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\07.VowelOrConsonant\\Program.cs",
+              "RelativeDocumentMoniker": "07.VowelOrConsonant\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\07.VowelOrConsonant\\Program.cs",
+              "RelativeToolTip": "07.VowelOrConsonant\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:02:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\06.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "06.DayOfWeek\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\06.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "06.DayOfWeek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:54:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\05.InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.InvalidNumber\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\05.InvalidNumber\\Program.cs",
+              "RelativeToolTip": "05.InvalidNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:50:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\04.FoodOrDrink\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodOrDrink\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\04.FoodOrDrink\\Program.cs",
+              "RelativeToolTip": "04.FoodOrDrink\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:46:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\03.BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "03.BonusScore\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\03.BonusScore\\Program.cs",
+              "RelativeToolTip": "03.BonusScore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:34:38.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\02.LargestNumberOutOfThree\\Program.cs",
+              "RelativeDocumentMoniker": "02.LargestNumberOutOfThree\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\02.LargestNumberOutOfThree\\Program.cs",
+              "RelativeToolTip": "02.LargestNumberOutOfThree\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:29:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\01.MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "01.MarketPlace\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ComplexConditionalStatements-Lab\\01.MarketPlace\\Program.cs",
+              "RelativeToolTip": "01.MarketPlace\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:20:03.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

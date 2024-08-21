@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8pD8VZOmBzTKhbF27FjFYerKYTwWxaFNv4dQDLWRervq5RGP3I/0kC1N5G6ZfG6V7cIHBfrUoI8hpUuSaE9glA==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\Demo\\10.EnglishNameOfEachDigitMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

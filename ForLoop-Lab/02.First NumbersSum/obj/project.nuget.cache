@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hPZivwqpB+4lGWFcCQe6AeMx0PGfXUG4tnf8icjCWFDfSacA926bNQXNyp+IzTzCD8zx29SwPqwhKayl/JayQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ForLoop-Lab\\02.First NumbersSum\\02.First NumbersSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

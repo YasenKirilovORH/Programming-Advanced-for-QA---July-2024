@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\bin\Debug\net6.0\03.CircleAreaAndPerimeter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\refint\03.CircleAreaAndPerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\03.CircleAreaAndPerimeter.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\03.CircleAreaAndPerimeter\obj\Debug\net6.0\ref\03.CircleAreaAndPerimeter.dll

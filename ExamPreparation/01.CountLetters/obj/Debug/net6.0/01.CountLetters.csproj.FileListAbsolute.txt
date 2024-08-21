@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\bin\Debug\net6.0\01.CountLetters.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\bin\Debug\net6.0\01.CountLetters.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\bin\Debug\net6.0\01.CountLetters.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\bin\Debug\net6.0\01.CountLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\bin\Debug\net6.0\01.CountLetters.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\refint\01.CountLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\01.CountLetters.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\01.CountLetters\obj\Debug\net6.0\ref\01.CountLetters.dll

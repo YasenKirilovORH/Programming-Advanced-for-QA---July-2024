@@ -1,0 +1,15 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\bin\Debug\net6.0\02.FourOperations.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\bin\Debug\net6.0\02.FourOperations.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\bin\Debug\net6.0\02.FourOperations.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\bin\Debug\net6.0\02.FourOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\bin\Debug\net6.0\02.FourOperations.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\refint\02.FourOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\ref\02.FourOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\02.FourOperations\obj\Debug\net6.0\02.FourOperations.sourcelink.json

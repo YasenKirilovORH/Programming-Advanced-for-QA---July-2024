@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\refint\03.UniquePINCodes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\03.UniquePINCodes\obj\Debug\net6.0\ref\03.UniquePINCodes.dll

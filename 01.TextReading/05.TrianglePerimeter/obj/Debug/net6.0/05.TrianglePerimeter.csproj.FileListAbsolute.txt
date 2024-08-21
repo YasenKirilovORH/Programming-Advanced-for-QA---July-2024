@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\bin\Debug\net6.0\05.TrianglePerimeter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\refint\05.TrianglePerimeter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\05.TrianglePerimeter.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\05.TrianglePerimeter\obj\Debug\net6.0\ref\05.TrianglePerimeter.dll

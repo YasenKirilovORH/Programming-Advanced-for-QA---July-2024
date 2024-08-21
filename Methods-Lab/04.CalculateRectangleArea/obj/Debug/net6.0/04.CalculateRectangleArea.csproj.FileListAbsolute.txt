@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll

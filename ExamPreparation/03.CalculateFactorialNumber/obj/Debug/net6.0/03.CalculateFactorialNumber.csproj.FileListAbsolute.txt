@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\bin\Debug\net6.0\03.CalculateFactorialNumber.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\bin\Debug\net6.0\03.CalculateFactorialNumber.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\bin\Debug\net6.0\03.CalculateFactorialNumber.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\bin\Debug\net6.0\03.CalculateFactorialNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\bin\Debug\net6.0\03.CalculateFactorialNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\refint\03.CalculateFactorialNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\03.CalculateFactorialNumber.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\03.CalculateFactorialNumber\obj\Debug\net6.0\ref\03.CalculateFactorialNumber.dll

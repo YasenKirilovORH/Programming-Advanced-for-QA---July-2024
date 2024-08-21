@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC5B9C-9B41-4550-8592-59C2A02FC04A}|06.Aquarium\\06.Aquarium.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EC5B9C-9B41-4550-8592-59C2A02FC04A}|06.Aquarium\\06.Aquarium.csproj|solutionrelative:06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6948230-EE0C-4EA1-B3B5-3EB2FE991EE2}|05.BasketballEquipment\\05.BasketballEquipment.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\05.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6948230-EE0C-4EA1-B3B5-3EB2FE991EE2}|05.BasketballEquipment\\05.BasketballEquipment.csproj|solutionrelative:05.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD20958C-BEA8-4447-89E9-7953C4753C51}|04.FoodDelivery\\04.FoodDelivery.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD20958C-BEA8-4447-89E9-7953C4753C51}|04.FoodDelivery\\04.FoodDelivery.csproj|solutionrelative:04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBA16C6E-BD20-4852-8EE9-251871B802A7}|03.Redecorating\\03.Redecorating.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBA16C6E-BD20-4852-8EE9-251871B802A7}|03.Redecorating\\03.Redecorating.csproj|solutionrelative:03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D3ABC9-1025-48C1-A892-4BE2F07F17FC}|02.CenturiesToMinutes\\02.CenturiesToMinutes.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\02.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D3ABC9-1025-48C1-A892-4BE2F07F17FC}|02.CenturiesToMinutes\\02.CenturiesToMinutes.csproj|solutionrelative:02.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997949F7-D98B-4509-BBAC-7B6A98206FFA}|01.ReversedNumbers\\01.ReversedNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\datatypes,varandsimplecalcs-exercise\\01.reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997949F7-D98B-4509-BBAC-7B6A98206FFA}|01.ReversedNumbers\\01.ReversedNumbers.csproj|solutionrelative:01.reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\06.Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "06.Aquarium\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\06.Aquarium\\Program.cs",
+              "RelativeToolTip": "06.Aquarium\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:07:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\05.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "05.BasketballEquipment\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\05.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "05.BasketballEquipment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T08:00:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\04.FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodDelivery\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\04.FoodDelivery\\Program.cs",
+              "RelativeToolTip": "04.FoodDelivery\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:52:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\03.Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03.Redecorating\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\03.Redecorating\\Program.cs",
+              "RelativeToolTip": "03.Redecorating\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:36:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\02.CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "02.CenturiesToMinutes\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\02.CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "02.CenturiesToMinutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:29:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\01.ReversedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.ReversedNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DataTypes,VarAndSimpleCalcs-Exercise\\01.ReversedNumbers\\Program.cs",
+              "RelativeToolTip": "01.ReversedNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:28:30.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

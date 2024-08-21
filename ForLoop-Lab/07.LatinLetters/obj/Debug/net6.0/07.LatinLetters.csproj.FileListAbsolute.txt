@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\bin\Debug\net6.0\07.LatinLetters.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\refint\07.LatinLetters.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\07.LatinLetters.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\07.LatinLetters\obj\Debug\net6.0\ref\07.LatinLetters.dll

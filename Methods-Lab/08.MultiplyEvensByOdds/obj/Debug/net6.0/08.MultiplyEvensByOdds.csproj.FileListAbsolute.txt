@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\bin\Debug\net6.0\08.MultiplyEvensByOdds.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\refint\08.MultiplyEvensByOdds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\08.MultiplyEvensByOdds.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\08.MultiplyEvensByOdds\obj\Debug\net6.0\ref\08.MultiplyEvensByOdds.dll

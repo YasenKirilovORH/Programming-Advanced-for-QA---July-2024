@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91B16949-CC33-46DC-BCD3-16209B58AB66}|06.InchesToCentimetersConverter\\06.InchesToCentimetersConverter.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\06.inchestocentimetersconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91B16949-CC33-46DC-BCD3-16209B58AB66}|06.InchesToCentimetersConverter\\06.InchesToCentimetersConverter.csproj|solutionrelative:06.inchestocentimetersconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5418E705-8A30-4C6A-91C6-16BDD92F02A4}|SimpleCommandsAndVisualStudio-Exercise\\SimpleCommandsAndVisualStudio-Exercise.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\simplecommandsandvisualstudio-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5418E705-8A30-4C6A-91C6-16BDD92F02A4}|SimpleCommandsAndVisualStudio-Exercise\\SimpleCommandsAndVisualStudio-Exercise.csproj|solutionrelative:simplecommandsandvisualstudio-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CF1C60-DE39-4771-A676-DBF4407C3DE7}|05.TrianglePerimeter\\05.TrianglePerimeter.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\05.triangleperimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CF1C60-DE39-4771-A676-DBF4407C3DE7}|05.TrianglePerimeter\\05.TrianglePerimeter.csproj|solutionrelative:05.triangleperimeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE8AE20-88C3-449A-B11A-4BDB7637F661}|04.TrapezoidArea\\04.TrapezoidArea.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\04.trapezoidarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE8AE20-88C3-449A-B11A-4BDB7637F661}|04.TrapezoidArea\\04.TrapezoidArea.csproj|solutionrelative:04.trapezoidarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E99C376-DD53-4A85-986B-CF7C739E3C9E}|03.RectangleArea\\03.RectangleArea.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E99C376-DD53-4A85-986B-CF7C739E3C9E}|03.RectangleArea\\03.RectangleArea.csproj|solutionrelative:03.rectanglearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D4AC210-AC04-4D3A-B580-65119EECA9BD}|02.SquareArea\\02.SquareArea.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\01.textreading\\02.squarearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4AC210-AC04-4D3A-B580-65119EECA9BD}|02.SquareArea\\02.SquareArea.csproj|solutionrelative:02.squarearea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\06.InchesToCentimetersConverter\\Program.cs",
+              "RelativeDocumentMoniker": "06.InchesToCentimetersConverter\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\06.InchesToCentimetersConverter\\Program.cs",
+              "RelativeToolTip": "06.InchesToCentimetersConverter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:16:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\05.TrianglePerimeter\\Program.cs",
+              "RelativeDocumentMoniker": "05.TrianglePerimeter\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\05.TrianglePerimeter\\Program.cs",
+              "RelativeToolTip": "05.TrianglePerimeter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:13:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\04.TrapezoidArea\\Program.cs",
+              "RelativeDocumentMoniker": "04.TrapezoidArea\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\04.TrapezoidArea\\Program.cs",
+              "RelativeToolTip": "04.TrapezoidArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:09:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\03.RectangleArea\\Program.cs",
+              "RelativeDocumentMoniker": "03.RectangleArea\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\03.RectangleArea\\Program.cs",
+              "RelativeToolTip": "03.RectangleArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:06:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\02.SquareArea\\Program.cs",
+              "RelativeDocumentMoniker": "02.SquareArea\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\02.SquareArea\\Program.cs",
+              "RelativeToolTip": "02.SquareArea\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:03:07.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\SimpleCommandsAndVisualStudio-Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCommandsAndVisualStudio-Exercise\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\01.TextReading\\SimpleCommandsAndVisualStudio-Exercise\\Program.cs",
+              "RelativeToolTip": "SimpleCommandsAndVisualStudio-Exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:58:13.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

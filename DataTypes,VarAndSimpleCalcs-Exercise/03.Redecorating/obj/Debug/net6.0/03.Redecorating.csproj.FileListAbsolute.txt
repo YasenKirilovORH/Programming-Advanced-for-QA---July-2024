@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\bin\Debug\net6.0\03.Redecorating.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\bin\Debug\net6.0\03.Redecorating.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\bin\Debug\net6.0\03.Redecorating.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\bin\Debug\net6.0\03.Redecorating.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\bin\Debug\net6.0\03.Redecorating.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\refint\03.Redecorating.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\03.Redecorating.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\03.Redecorating\obj\Debug\net6.0\ref\03.Redecorating.dll

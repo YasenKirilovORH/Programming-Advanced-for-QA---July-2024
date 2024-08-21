@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\bin\Debug\net6.0\test2.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\bin\Debug\net6.0\test2.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\bin\Debug\net6.0\test2.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\bin\Debug\net6.0\test2.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\bin\Debug\net6.0\test2.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\refint\test2.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\test2.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\test2\obj\Debug\net6.0\ref\test2.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\refint\02.MagicNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoopsAndMethods-Exercise\02.MagicNumbers\obj\Debug\net6.0\ref\02.MagicNumbers.dll

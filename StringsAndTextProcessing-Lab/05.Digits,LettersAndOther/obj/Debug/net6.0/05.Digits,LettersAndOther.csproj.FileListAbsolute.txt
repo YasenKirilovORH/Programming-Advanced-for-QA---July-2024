@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\refint\05.Digits,LettersAndOther.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\StringsAndTextProcessing-Lab\05.Digits,LettersAndOther\obj\Debug\net6.0\ref\05.Digits,LettersAndOther.dll

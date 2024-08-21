@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll

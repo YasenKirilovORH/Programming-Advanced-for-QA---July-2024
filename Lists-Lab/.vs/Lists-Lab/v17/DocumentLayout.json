@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E19004A-08EC-4BCB-8F1D-A1D10E2D1E59}|06.ListManipulationAdvancedV2\\06.ListManipulationAdvancedV2.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\06.listmanipulationadvancedv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E19004A-08EC-4BCB-8F1D-A1D10E2D1E59}|06.ListManipulationAdvancedV2\\06.ListManipulationAdvancedV2.csproj|solutionrelative:06.listmanipulationadvancedv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C78DB5-18FB-40AF-928E-732677CB744E}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C78DB5-18FB-40AF-928E-732677CB744E}|05.ListManipulationAdvanced\\05.ListManipulationAdvanced.csproj|solutionrelative:05.listmanipulationadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA1DF-FCB3-48D4-A999-135D05D6A8F5}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA1DF-FCB3-48D4-A999-135D05D6A8F5}|04.ListManipulationBasics\\04.ListManipulationBasics.csproj|solutionrelative:04.listmanipulationbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97A9025-348E-49E8-A5C3-80AF3416AB41}|03.RemoveNegativesAndReverse\\03.RemoveNegativesAndReverse.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97A9025-348E-49E8-A5C3-80AF3416AB41}|03.RemoveNegativesAndReverse\\03.RemoveNegativesAndReverse.csproj|solutionrelative:03.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD8326A-415D-426C-931C-C6FFC012579E}|01.ChangeList\\01.ChangeList.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD8326A-415D-426C-931C-C6FFC012579E}|01.ChangeList\\01.ChangeList.csproj|solutionrelative:01.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BFAD62-C0D4-4606-9DF3-1B5C8E45BC73}|02.ListOfProducts\\02.ListOfProducts.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\lists-lab\\02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BFAD62-C0D4-4606-9DF3-1B5C8E45BC73}|02.ListOfProducts\\02.ListOfProducts.csproj|solutionrelative:02.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\06.ListManipulationAdvancedV2\\Program.cs",
+              "RelativeDocumentMoniker": "06.ListManipulationAdvancedV2\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\06.ListManipulationAdvancedV2\\Program.cs",
+              "RelativeToolTip": "06.ListManipulationAdvancedV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:26:05.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "05.ListManipulationAdvanced\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\05.ListManipulationAdvanced\\Program.cs",
+              "RelativeToolTip": "05.ListManipulationAdvanced\\Program.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAqwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:38:15.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\04.ListManipulationBasics\\Program.cs",
+              "RelativeDocumentMoniker": "04.ListManipulationBasics\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\04.ListManipulationBasics\\Program.cs",
+              "RelativeToolTip": "04.ListManipulationBasics\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:14:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\03.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeDocumentMoniker": "03.RemoveNegativesAndReverse\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\03.RemoveNegativesAndReverse\\Program.cs",
+              "RelativeToolTip": "03.RemoveNegativesAndReverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:05:54.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\02.ListOfProducts\\Program.cs",
+              "RelativeDocumentMoniker": "02.ListOfProducts\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\02.ListOfProducts\\Program.cs",
+              "RelativeToolTip": "02.ListOfProducts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:57:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\01.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "01.ChangeList\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Lists-Lab\\01.ChangeList\\Program.cs",
+              "RelativeToolTip": "01.ChangeList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:31:10.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\bin\Debug\net6.0\01.CountRealNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\refint\01.CountRealNumbers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\01.CountRealNumbers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\01.CountRealNumbers\obj\Debug\net6.0\ref\01.CountRealNumbers.dll

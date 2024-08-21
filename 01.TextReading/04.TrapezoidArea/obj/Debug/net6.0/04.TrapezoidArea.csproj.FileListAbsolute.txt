@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\bin\Debug\net6.0\04.TrapezoidArea.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\bin\Debug\net6.0\04.TrapezoidArea.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\bin\Debug\net6.0\04.TrapezoidArea.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\bin\Debug\net6.0\04.TrapezoidArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\bin\Debug\net6.0\04.TrapezoidArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\refint\04.TrapezoidArea.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\04.TrapezoidArea.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\04.TrapezoidArea\obj\Debug\net6.0\ref\04.TrapezoidArea.dll

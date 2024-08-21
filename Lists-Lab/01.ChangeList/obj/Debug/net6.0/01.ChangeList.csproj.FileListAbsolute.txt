@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\bin\Debug\net6.0\01.ChangeList.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\refint\01.ChangeList.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\01.ChangeList.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\01.ChangeList\obj\Debug\net6.0\ref\01.ChangeList.dll

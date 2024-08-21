@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\bin\Debug\net6.0\01.DaysInMinutes.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\bin\Debug\net6.0\01.DaysInMinutes.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\bin\Debug\net6.0\01.DaysInMinutes.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\bin\Debug\net6.0\01.DaysInMinutes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\bin\Debug\net6.0\01.DaysInMinutes.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\refint\01.DaysInMinutes.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\01.DaysInMinutes.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\01.DaysInMinutes\obj\Debug\net6.0\ref\01.DaysInMinutes.dll

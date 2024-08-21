@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\bin\Debug\net6.0\09.MaxSequenceOfEqualElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\refint\09.MaxSequenceOfEqualElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\09.MaxSequenceOfEqualElements.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\09.MaxSequenceOfEqualElements\obj\Debug\net6.0\ref\09.MaxSequenceOfEqualElements.dll

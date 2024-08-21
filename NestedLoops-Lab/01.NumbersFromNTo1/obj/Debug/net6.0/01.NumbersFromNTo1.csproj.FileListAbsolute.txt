@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\bin\Debug\net6.0\01.NumbersFromNTo1.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\refint\01.NumbersFromNTo1.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\01.NumbersFromNTo1.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\01.NumbersFromNTo1\obj\Debug\net6.0\ref\01.NumbersFromNTo1.dll

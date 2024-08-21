@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\bin\Debug\net6.0\02.Students.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\bin\Debug\net6.0\02.Students.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\bin\Debug\net6.0\02.Students.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\bin\Debug\net6.0\02.Students.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\bin\Debug\net6.0\02.Students.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\refint\02.Students.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\02.Students.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Lab\02.Students\obj\Debug\net6.0\ref\02.Students.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\bin\Debug\net6.0\10.TopIntegers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\refint\10.TopIntegers.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\10.TopIntegers.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\10.TopIntegers\obj\Debug\net6.0\ref\10.TopIntegers.dll

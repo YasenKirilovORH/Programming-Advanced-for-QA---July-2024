@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FOgfwIdrdxZcgh8c9qHlrD16ioutpRU+/mAc+U4/rpt7v0NYeC//wTVejSuqofEtYE5Rbj8pBe6oBu3ftyDsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasen\\Desktop\\Exam 18.08.2024\\StringProblems\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\bin\Debug\net6.0\10.SummerOutfit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\refint\10.SummerOutfit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\10.SummerOutfit.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\10.SummerOutfit\obj\Debug\net6.0\ref\10.SummerOutfit.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\bin\Debug\net6.0\05.SumFactorialEvenDigits.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\bin\Debug\net6.0\05.SumFactorialEvenDigits.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\bin\Debug\net6.0\05.SumFactorialEvenDigits.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\bin\Debug\net6.0\05.SumFactorialEvenDigits.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\bin\Debug\net6.0\05.SumFactorialEvenDigits.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\refint\05.SumFactorialEvenDigits.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\05.SumFactorialEvenDigits.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\05.SumFactorialEvenDigits\obj\Debug\net6.0\ref\05.SumFactorialEvenDigits.dll

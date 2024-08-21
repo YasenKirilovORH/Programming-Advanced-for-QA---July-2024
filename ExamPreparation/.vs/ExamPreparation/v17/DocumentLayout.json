@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E80FF7DE-56A8-4DF4-BEFA-B71B8AE0D550}|11.AverageLastElements\\11.AverageLastElements.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\11.averagelastelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80FF7DE-56A8-4DF4-BEFA-B71B8AE0D550}|11.AverageLastElements\\11.AverageLastElements.csproj|solutionrelative:11.averagelastelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92D6FEC-7C55-4F6C-B8FC-A14B87232D0A}|09.EnglishNameOfEachDigit\\09.EnglishNameOfEachDigit.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\09.englishnameofeachdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92D6FEC-7C55-4F6C-B8FC-A14B87232D0A}|09.EnglishNameOfEachDigit\\09.EnglishNameOfEachDigit.csproj|solutionrelative:09.englishnameofeachdigit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFCEF70-C5A0-4FF6-B28E-0C3F646DBDFF}|Demo\\Demo.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFCEF70-C5A0-4FF6-B28E-0C3F646DBDFF}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A0FB8B-8F82-4B73-95CD-A92C29ED1342}|08.MinMaxValues\\08.MinMaxValues.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\08.minmaxvalues\\08.minmaxvalues.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05A0FB8B-8F82-4B73-95CD-A92C29ED1342}|08.MinMaxValues\\08.MinMaxValues.csproj|solutionrelative:08.minmaxvalues\\08.minmaxvalues.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29CF9CD-C511-4295-B15F-1DC7964B3D36}|06.MiddleElements\\06.MiddleElements.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\06.middleelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29CF9CD-C511-4295-B15F-1DC7964B3D36}|06.MiddleElements\\06.MiddleElements.csproj|solutionrelative:06.middleelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF55729-1055-44B3-A3B2-FCB09B0B6319}|07.MagicNumbers\\07.MagicNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\07.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF55729-1055-44B3-A3B2-FCB09B0B6319}|07.MagicNumbers\\07.MagicNumbers.csproj|solutionrelative:07.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A0FB8B-8F82-4B73-95CD-A92C29ED1342}|08.MinMaxValues\\08.MinMaxValues.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\08.minmaxvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A0FB8B-8F82-4B73-95CD-A92C29ED1342}|08.MinMaxValues\\08.MinMaxValues.csproj|solutionrelative:08.minmaxvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBED964-1A68-432C-ADC8-75BFCF8BFB68}|05.SumFactorialEvenDigits\\05.SumFactorialEvenDigits.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\05.sumfactorialevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBED964-1A68-432C-ADC8-75BFCF8BFB68}|05.SumFactorialEvenDigits\\05.SumFactorialEvenDigits.csproj|solutionrelative:05.sumfactorialevendigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FBF503D-0384-4DC1-8E84-FAF4A88B5F6F}|03.SmallerNumbers\\04.SmallerNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\03.smallernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FBF503D-0384-4DC1-8E84-FAF4A88B5F6F}|03.SmallerNumbers\\04.SmallerNumbers.csproj|solutionrelative:03.smallernumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0695EE1-4A56-4664-B747-912E7CC32552}|03.CalculateFactorialNumber\\03.CalculateFactorialNumber.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\03.calculatefactorialnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0695EE1-4A56-4664-B747-912E7CC32552}|03.CalculateFactorialNumber\\03.CalculateFactorialNumber.csproj|solutionrelative:03.calculatefactorialnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD218E70-2E85-4572-B6E0-B700D65E1312}|02.MaxMinInRange\\02.MaxMinInRange.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\02.maxmininrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD218E70-2E85-4572-B6E0-B700D65E1312}|02.MaxMinInRange\\02.MaxMinInRange.csproj|solutionrelative:02.maxmininrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D79B5F2-8C28-421E-B718-964F1BA4AAFD}|01.CountLetters\\01.CountLetters.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\exampreparation\\01.countletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D79B5F2-8C28-421E-B718-964F1BA4AAFD}|01.CountLetters\\01.CountLetters.csproj|solutionrelative:01.countletters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\11.AverageLastElements\\Program.cs",
+              "RelativeDocumentMoniker": "11.AverageLastElements\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\11.AverageLastElements\\Program.cs",
+              "RelativeToolTip": "11.AverageLastElements\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:47:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "08.MinMaxValues.csproj",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\08.MinMaxValues\\08.MinMaxValues.csproj",
+              "RelativeDocumentMoniker": "08.MinMaxValues\\08.MinMaxValues.csproj",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\08.MinMaxValues\\08.MinMaxValues.csproj",
+              "RelativeToolTip": "08.MinMaxValues\\08.MinMaxValues.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-05T11:38:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T11:15:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\09.EnglishNameOfEachDigit\\Program.cs",
+              "RelativeDocumentMoniker": "09.EnglishNameOfEachDigit\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\09.EnglishNameOfEachDigit\\Program.cs",
+              "RelativeToolTip": "09.EnglishNameOfEachDigit\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:55:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\08.MinMaxValues\\Program.cs",
+              "RelativeDocumentMoniker": "08.MinMaxValues\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\08.MinMaxValues\\Program.cs",
+              "RelativeToolTip": "08.MinMaxValues\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:19:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\07.MagicNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "07.MagicNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\07.MagicNumbers\\Program.cs",
+              "RelativeToolTip": "07.MagicNumbers\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:02:10.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\06.MiddleElements\\Program.cs",
+              "RelativeDocumentMoniker": "06.MiddleElements\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\06.MiddleElements\\Program.cs",
+              "RelativeToolTip": "06.MiddleElements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:50:04.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\05.SumFactorialEvenDigits\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumFactorialEvenDigits\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\05.SumFactorialEvenDigits\\Program.cs",
+              "RelativeToolTip": "05.SumFactorialEvenDigits\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T10:35:00.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\03.SmallerNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.SmallerNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\03.SmallerNumbers\\Program.cs",
+              "RelativeToolTip": "03.SmallerNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:50:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\03.CalculateFactorialNumber\\Program.cs",
+              "RelativeDocumentMoniker": "03.CalculateFactorialNumber\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\03.CalculateFactorialNumber\\Program.cs",
+              "RelativeToolTip": "03.CalculateFactorialNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:14:19.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\02.MaxMinInRange\\Program.cs",
+              "RelativeDocumentMoniker": "02.MaxMinInRange\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\02.MaxMinInRange\\Program.cs",
+              "RelativeToolTip": "02.MaxMinInRange\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:59:27.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\01.CountLetters\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountLetters\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ExamPreparation\\01.CountLetters\\Program.cs",
+              "RelativeToolTip": "01.CountLetters\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:45:14.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

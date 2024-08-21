@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\bin\Debug\net6.0\09.Orders.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\bin\Debug\net6.0\09.Orders.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\bin\Debug\net6.0\09.Orders.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\bin\Debug\net6.0\09.Orders.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\bin\Debug\net6.0\09.Orders.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\refint\09.Orders.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\09.Orders.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\09.Orders\obj\Debug\net6.0\ref\09.Orders.dll

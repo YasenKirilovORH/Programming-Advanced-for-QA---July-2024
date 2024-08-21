@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\bin\Debug\net6.0\09.EnglishNameOfEachDigit.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\bin\Debug\net6.0\09.EnglishNameOfEachDigit.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\bin\Debug\net6.0\09.EnglishNameOfEachDigit.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\bin\Debug\net6.0\09.EnglishNameOfEachDigit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\bin\Debug\net6.0\09.EnglishNameOfEachDigit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\refint\09.EnglishNameOfEachDigit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\09.EnglishNameOfEachDigit.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\09.EnglishNameOfEachDigit\obj\Debug\net6.0\ref\09.EnglishNameOfEachDigit.dll

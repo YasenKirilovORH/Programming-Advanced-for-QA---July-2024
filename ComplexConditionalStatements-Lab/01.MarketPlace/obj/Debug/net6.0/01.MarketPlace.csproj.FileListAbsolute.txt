@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\bin\Debug\net6.0\01.MarketPlace.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\refint\01.MarketPlace.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\01.MarketPlace.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\01.MarketPlace\obj\Debug\net6.0\ref\01.MarketPlace.dll

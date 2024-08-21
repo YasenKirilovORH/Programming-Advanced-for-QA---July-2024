@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\bin\Debug\net6.0\05.InvalidNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\refint\05.InvalidNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\05.InvalidNumber.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\05.InvalidNumber\obj\Debug\net6.0\ref\05.InvalidNumber.dll

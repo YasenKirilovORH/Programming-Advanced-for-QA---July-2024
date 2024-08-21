@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\04.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|solutionrelative:04.pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\04.pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|solutionrelative:04.pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\04.pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492AE5F1-176E-4D70-8A72-2E5E6810DFCF}|04.PokemonTrainer\\04.PokemonTrainer.csproj|solutionrelative:04.pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C3B12-EC13-46EC-9F70-EDDE8720D9C2}|03.TeamworkProjects\\03.TeamworkProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\03.teamworkprojects\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C3B12-EC13-46EC-9F70-EDDE8720D9C2}|03.TeamworkProjects\\03.TeamworkProjects.csproj|solutionrelative:03.teamworkprojects\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20C3B12-EC13-46EC-9F70-EDDE8720D9C2}|03.TeamworkProjects\\03.TeamworkProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\03.teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20C3B12-EC13-46EC-9F70-EDDE8720D9C2}|03.TeamworkProjects\\03.TeamworkProjects.csproj|solutionrelative:03.teamworkprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47AE56E9-6060-4725-9332-E9A14472FDA4}|01.Students\\01.Students.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\01.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47AE56E9-6060-4725-9332-E9A14472FDA4}|01.Students\\01.Students.csproj|solutionrelative:01.students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78FE0A3-A839-4B11-8AA9-C83825B82F6E}|02.Articles\\02.Articles.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\objectsandclasses-exercise\\02.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78FE0A3-A839-4B11-8AA9-C83825B82F6E}|02.Articles\\02.Articles.csproj|solutionrelative:02.articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Pokemon.cs",
+              "RelativeDocumentMoniker": "04.PokemonTrainer\\Pokemon.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Pokemon.cs",
+              "RelativeToolTip": "04.PokemonTrainer\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:38:45.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Trainer.cs",
+              "RelativeDocumentMoniker": "04.PokemonTrainer\\Trainer.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Trainer.cs",
+              "RelativeToolTip": "04.PokemonTrainer\\Trainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:35:41.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Program.cs",
+              "RelativeDocumentMoniker": "04.PokemonTrainer\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\04.PokemonTrainer\\Program.cs",
+              "RelativeToolTip": "04.PokemonTrainer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:33:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\03.TeamworkProjects\\Team.cs",
+              "RelativeDocumentMoniker": "03.TeamworkProjects\\Team.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\03.TeamworkProjects\\Team.cs",
+              "RelativeToolTip": "03.TeamworkProjects\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:17:37.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\03.TeamworkProjects\\Program.cs",
+              "RelativeDocumentMoniker": "03.TeamworkProjects\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\03.TeamworkProjects\\Program.cs",
+              "RelativeToolTip": "03.TeamworkProjects\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:16:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\02.Articles\\Program.cs",
+              "RelativeDocumentMoniker": "02.Articles\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\02.Articles\\Program.cs",
+              "RelativeToolTip": "02.Articles\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:42:07.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\01.Students\\Program.cs",
+              "RelativeDocumentMoniker": "01.Students\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ObjectsAndClasses-Exercise\\01.Students\\Program.cs",
+              "RelativeToolTip": "01.Students\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwCUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:52:33.885Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

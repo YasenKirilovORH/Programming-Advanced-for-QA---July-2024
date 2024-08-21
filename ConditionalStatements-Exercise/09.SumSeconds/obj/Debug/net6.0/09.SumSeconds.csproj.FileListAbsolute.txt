@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\bin\Debug\net6.0\09.SumSeconds.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\refint\09.SumSeconds.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\09.SumSeconds.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\09.SumSeconds\obj\Debug\net6.0\ref\09.SumSeconds.dll

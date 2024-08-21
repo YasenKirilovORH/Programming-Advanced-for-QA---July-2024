@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\bin\Debug\net6.0\02.CondenseArrayТoNumber.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\bin\Debug\net6.0\02.CondenseArrayТoNumber.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\bin\Debug\net6.0\02.CondenseArrayТoNumber.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\bin\Debug\net6.0\02.CondenseArrayТoNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\bin\Debug\net6.0\02.CondenseArrayТoNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\refint\02.CondenseArrayТoNumber.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\02.CondenseArrayТoNumber.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\02.CondenseArrayТoNumber\obj\Debug\net6.0\ref\02.CondenseArrayТoNumber.dll

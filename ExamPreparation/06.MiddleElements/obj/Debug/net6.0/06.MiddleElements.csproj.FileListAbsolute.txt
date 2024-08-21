@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\bin\Debug\net6.0\06.MiddleElements.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\bin\Debug\net6.0\06.MiddleElements.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\bin\Debug\net6.0\06.MiddleElements.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\bin\Debug\net6.0\06.MiddleElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\bin\Debug\net6.0\06.MiddleElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\refint\06.MiddleElements.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\06.MiddleElements.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\06.MiddleElements\obj\Debug\net6.0\ref\06.MiddleElements.dll

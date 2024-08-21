@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\bin\Debug\net6.0\02.First NumbersSum.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\bin\Debug\net6.0\02.First NumbersSum.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\bin\Debug\net6.0\02.First NumbersSum.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\bin\Debug\net6.0\02.First NumbersSum.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\bin\Debug\net6.0\02.First NumbersSum.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\refint\02.First NumbersSum.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\02.First NumbersSum.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\02.First NumbersSum\obj\Debug\net6.0\ref\02.First NumbersSum.dll

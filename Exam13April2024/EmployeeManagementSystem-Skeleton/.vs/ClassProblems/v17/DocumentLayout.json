@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yasen\\Desktop\\Exam preparation\\EmployeeManagementSystem-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A8F3D2-CCB6-4EA8-A6F1-44567A33E647}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\yasen\\desktop\\exam preparation\\employeemanagementsystem-skeleton\\testapp.tests\\employeemanagementsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A8F3D2-CCB6-4EA8-A6F1-44567A33E647}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\employeemanagementsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagementSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yasen\\Desktop\\Exam preparation\\EmployeeManagementSystem-Skeleton\\TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "ToolTip": "C:\\Users\\Yasen\\Desktop\\Exam preparation\\EmployeeManagementSystem-Skeleton\\TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAswCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:33:04.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\bin\Debug\net6.0\05.ConvertCelsiusToFahrenheit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\refint\05.ConvertCelsiusToFahrenheit.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\05.ConvertCelsiusToFahrenheit.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\05.ConvertCelsiusToFahrenheit\obj\Debug\net6.0\ref\05.ConvertCelsiusToFahrenheit.dll

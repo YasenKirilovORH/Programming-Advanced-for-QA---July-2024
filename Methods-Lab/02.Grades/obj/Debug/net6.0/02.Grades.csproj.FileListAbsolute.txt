@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\bin\Debug\net6.0\02.Grades.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\bin\Debug\net6.0\02.Grades.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\bin\Debug\net6.0\02.Grades.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\bin\Debug\net6.0\02.Grades.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\bin\Debug\net6.0\02.Grades.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\refint\02.Grades.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\02.Grades.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\02.Grades\obj\Debug\net6.0\ref\02.Grades.dll

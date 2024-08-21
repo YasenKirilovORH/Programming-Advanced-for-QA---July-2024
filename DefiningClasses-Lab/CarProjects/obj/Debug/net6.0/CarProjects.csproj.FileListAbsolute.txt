@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\bin\Debug\net6.0\CarProjects.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\bin\Debug\net6.0\CarProjects.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\bin\Debug\net6.0\CarProjects.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\bin\Debug\net6.0\CarProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\bin\Debug\net6.0\CarProjects.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\refint\CarProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\CarProjects.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DefiningClasses-Lab\CarProjects\obj\Debug\net6.0\ref\CarProjects.dll

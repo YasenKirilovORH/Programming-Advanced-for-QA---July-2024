@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\bin\Debug\net6.0\06.InchesToCentimetersConverter.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\bin\Debug\net6.0\06.InchesToCentimetersConverter.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\bin\Debug\net6.0\06.InchesToCentimetersConverter.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\bin\Debug\net6.0\06.InchesToCentimetersConverter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\bin\Debug\net6.0\06.InchesToCentimetersConverter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\refint\06.InchesToCentimetersConverter.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\06.InchesToCentimetersConverter.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\06.InchesToCentimetersConverter\obj\Debug\net6.0\ref\06.InchesToCentimetersConverter.dll

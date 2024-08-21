@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\bin\Debug\net6.0\04.FoodDelivery.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\refint\04.FoodDelivery.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\04.FoodDelivery.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\04.FoodDelivery\obj\Debug\net6.0\ref\04.FoodDelivery.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\bin\Debug\net6.0\06.MathPower.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\refint\06.MathPower.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\06.MathPower.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\06.MathPower\obj\Debug\net6.0\ref\06.MathPower.dll

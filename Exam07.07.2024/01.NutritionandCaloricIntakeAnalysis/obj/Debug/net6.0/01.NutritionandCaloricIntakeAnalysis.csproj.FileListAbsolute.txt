@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\bin\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\refint\01.NutritionandCaloricIntakeAnalysis.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\01.NutritionandCaloricIntakeAnalysis.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Exam07.07.2024\01.NutritionandCaloricIntakeAnalysis\obj\Debug\net6.0\ref\01.NutritionandCaloricIntakeAnalysis.dll

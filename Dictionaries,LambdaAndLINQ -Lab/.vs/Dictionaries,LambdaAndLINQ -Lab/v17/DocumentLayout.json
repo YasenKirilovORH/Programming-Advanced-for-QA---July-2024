@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D167015E-7033-4491-B5C6-4C199C19776B}|04.WordFilter\\04.WordFilter.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\dictionaries,lambdaandlinq -lab\\04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D167015E-7033-4491-B5C6-4C199C19776B}|04.WordFilter\\04.WordFilter.csproj|solutionrelative:04.wordfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B83B59FE-148F-43C3-9D66-3C0FB047F638}|03.WordSynonyms\\03.WordSynonyms.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\dictionaries,lambdaandlinq -lab\\03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B83B59FE-148F-43C3-9D66-3C0FB047F638}|03.WordSynonyms\\03.WordSynonyms.csproj|solutionrelative:03.wordsynonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038320CB-1C65-4FF2-B152-3E1ED508C666}|02.OddOccurrences\\02.OddOccurrences.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\dictionaries,lambdaandlinq -lab\\02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038320CB-1C65-4FF2-B152-3E1ED508C666}|02.OddOccurrences\\02.OddOccurrences.csproj|solutionrelative:02.oddoccurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3989E8-E5D4-4B7C-BFC3-17CA31B05691}|01.CountRealNumbers\\01.CountRealNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\dictionaries,lambdaandlinq -lab\\01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3989E8-E5D4-4B7C-BFC3-17CA31B05691}|01.CountRealNumbers\\01.CountRealNumbers.csproj|solutionrelative:01.countrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\04.WordFilter\\Program.cs",
+              "RelativeDocumentMoniker": "04.WordFilter\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\04.WordFilter\\Program.cs",
+              "RelativeToolTip": "04.WordFilter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:34:05.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\03.WordSynonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03.WordSynonyms\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\03.WordSynonyms\\Program.cs",
+              "RelativeToolTip": "03.WordSynonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:24:50.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02.OddOccurrences\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\02.OddOccurrences\\Program.cs",
+              "RelativeToolTip": "02.OddOccurrences\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvxMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:14:08.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01.CountRealNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\Dictionaries,LambdaAndLINQ -Lab\\01.CountRealNumbers\\Program.cs",
+              "RelativeToolTip": "01.CountRealNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T12:56:48.924Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

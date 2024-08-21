@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\bin\Debug\net6.0\07.SumOfDigitsCalculator.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\refint\07.SumOfDigitsCalculator.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\07.SumOfDigitsCalculator.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\NestedLoops-Lab\07.SumOfDigitsCalculator\obj\Debug\net6.0\ref\07.SumOfDigitsCalculator.dll

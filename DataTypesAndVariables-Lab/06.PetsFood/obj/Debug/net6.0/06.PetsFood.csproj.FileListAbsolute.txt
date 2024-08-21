@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\bin\Debug\net6.0\06.PetsFood.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\bin\Debug\net6.0\06.PetsFood.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\bin\Debug\net6.0\06.PetsFood.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\bin\Debug\net6.0\06.PetsFood.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\bin\Debug\net6.0\06.PetsFood.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\refint\06.PetsFood.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\06.PetsFood.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\06.PetsFood\obj\Debug\net6.0\ref\06.PetsFood.dll

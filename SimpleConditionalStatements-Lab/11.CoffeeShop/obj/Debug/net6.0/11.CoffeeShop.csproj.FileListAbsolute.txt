@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\bin\Debug\net6.0\11.CoffeeShop.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\refint\11.CoffeeShop.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\11.CoffeeShop.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\11.CoffeeShop\obj\Debug\net6.0\ref\11.CoffeeShop.dll

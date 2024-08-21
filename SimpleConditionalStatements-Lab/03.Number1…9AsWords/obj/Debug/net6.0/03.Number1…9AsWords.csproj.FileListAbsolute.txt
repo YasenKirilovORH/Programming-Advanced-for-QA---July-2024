@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\bin\Debug\net6.0\03.Number1…9AsWords.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\bin\Debug\net6.0\03.Number1…9AsWords.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\bin\Debug\net6.0\03.Number1…9AsWords.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\bin\Debug\net6.0\03.Number1…9AsWords.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\bin\Debug\net6.0\03.Number1…9AsWords.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\refint\03.Number1…9AsWords.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\03.Number1…9AsWords.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\03.Number1…9AsWords\obj\Debug\net6.0\ref\03.Number1…9AsWords.dll

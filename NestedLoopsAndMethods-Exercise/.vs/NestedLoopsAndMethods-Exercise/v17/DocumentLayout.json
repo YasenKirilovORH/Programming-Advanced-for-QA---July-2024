@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74EEA23F-F3F0-44EF-8A74-370BA4456887}|09.PasswordValidator\\09.PasswordValidator.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\09.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74EEA23F-F3F0-44EF-8A74-370BA4456887}|09.PasswordValidator\\09.PasswordValidator.csproj|solutionrelative:09.passwordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F593C88E-F133-4DAA-AF0A-F2A0A150CAF1}|07.FactorialDivision\\07.FactorialDivision.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\07.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F593C88E-F133-4DAA-AF0A-F2A0A150CAF1}|07.FactorialDivision\\07.FactorialDivision.csproj|solutionrelative:07.factorialdivision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BA0F4F-6CCD-44DE-BC65-A031B5130CA5}|08.MultiplicationSign\\08.MultiplicationSign.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\08.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BA0F4F-6CCD-44DE-BC65-A031B5130CA5}|08.MultiplicationSign\\08.MultiplicationSign.csproj|solutionrelative:08.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA56462-CC0C-4E10-B8FE-6C228F652DAF}|06.VowelsCount\\06.VowelsCount.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\06.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA56462-CC0C-4E10-B8FE-6C228F652DAF}|06.VowelsCount\\06.VowelsCount.csproj|solutionrelative:06.vowelscount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A0A97-703A-41A8-A70B-67C53C8A16C1}|05.HappyNumbers\\05.HappyNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\05.happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A0A97-703A-41A8-A70B-67C53C8A16C1}|05.HappyNumbers\\05.HappyNumbers.csproj|solutionrelative:05.happynumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FC15B4-F28A-405F-8BD6-E4F82BE4C099}|04.LetterCombinations\\04.LetterCombinations.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\04.lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FC15B4-F28A-405F-8BD6-E4F82BE4C099}|04.LetterCombinations\\04.LetterCombinations.csproj|solutionrelative:04.lettercombinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39305764-50BE-43AD-B294-980E5E0E1F93}|03.UniquePINCodes\\03.UniquePINCodes.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\03.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39305764-50BE-43AD-B294-980E5E0E1F93}|03.UniquePINCodes\\03.UniquePINCodes.csproj|solutionrelative:03.uniquepincodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E1A874-756E-4431-9473-C6026D502889}|02.MagicNumbers\\02.MagicNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E1A874-756E-4431-9473-C6026D502889}|02.MagicNumbers\\02.MagicNumbers.csproj|solutionrelative:02.magicnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067463B8-5F1D-4AB5-9659-5A75436AEE1E}|01.StupidPasswords\\01.StupidPasswords.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloopsandmethods-exercise\\01.stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067463B8-5F1D-4AB5-9659-5A75436AEE1E}|01.StupidPasswords\\01.StupidPasswords.csproj|solutionrelative:01.stupidpasswords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\09.PasswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "09.PasswordValidator\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\09.PasswordValidator\\Program.cs",
+              "RelativeToolTip": "09.PasswordValidator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:41:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\08.MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "08.MultiplicationSign\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\08.MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "08.MultiplicationSign\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:24:49.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\07.FactorialDivision\\Program.cs",
+              "RelativeDocumentMoniker": "07.FactorialDivision\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\07.FactorialDivision\\Program.cs",
+              "RelativeToolTip": "07.FactorialDivision\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:05:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\06.VowelsCount\\Program.cs",
+              "RelativeDocumentMoniker": "06.VowelsCount\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\06.VowelsCount\\Program.cs",
+              "RelativeToolTip": "06.VowelsCount\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:52:16.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\05.HappyNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.HappyNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\05.HappyNumbers\\Program.cs",
+              "RelativeToolTip": "05.HappyNumbers\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA/wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:30:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\04.LetterCombinations\\Program.cs",
+              "RelativeDocumentMoniker": "04.LetterCombinations\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\04.LetterCombinations\\Program.cs",
+              "RelativeToolTip": "04.LetterCombinations\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:17:17.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\03.UniquePINCodes\\Program.cs",
+              "RelativeDocumentMoniker": "03.UniquePINCodes\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\03.UniquePINCodes\\Program.cs",
+              "RelativeToolTip": "03.UniquePINCodes\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:07:24.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\02.MagicNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.MagicNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\02.MagicNumbers\\Program.cs",
+              "RelativeToolTip": "02.MagicNumbers\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:55:32.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\01.StupidPasswords\\Program.cs",
+              "RelativeDocumentMoniker": "01.StupidPasswords\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoopsAndMethods-Exercise\\01.StupidPasswords\\Program.cs",
+              "RelativeToolTip": "01.StupidPasswords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:51:15.793Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

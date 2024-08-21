@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wd36LVmUmA5FagUycpFoa/tVMOHNCyRG+YyjXBZk9zRhANU5/oGwXwCtvdr4DQkeHJ/24ekcTxGaERygV6DQzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasen\\Desktop\\Exam Preparation\\Exam Preparation 1\\Resources\\02-Dictionary-Insertion-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

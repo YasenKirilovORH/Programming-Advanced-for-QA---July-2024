@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\bin\Debug\net6.0\04.NumberOperations.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\refint\04.NumberOperations.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\04.NumberOperations.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\04.NumberOperations\obj\Debug\net6.0\ref\04.NumberOperations.dll

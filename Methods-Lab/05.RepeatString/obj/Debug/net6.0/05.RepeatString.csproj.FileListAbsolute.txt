@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\bin\Debug\net6.0\05.RepeatString.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\refint\05.RepeatString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\05.RepeatString.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\05.RepeatString\obj\Debug\net6.0\ref\05.RepeatString.dll

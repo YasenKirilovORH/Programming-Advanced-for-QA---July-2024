@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\bin\Debug\net6.0\01.NumberType.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\refint\01.NumberType.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\01.NumberType.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ConditionalStatements-Exercise\01.NumberType\obj\Debug\net6.0\ref\01.NumberType.dll

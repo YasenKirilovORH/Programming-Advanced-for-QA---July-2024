@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\bin\Debug\net6.0\05.BasketballEquipment.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\refint\05.BasketballEquipment.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\05.BasketballEquipment.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypes,VarAndSimpleCalcs-Exercise\05.BasketballEquipment\obj\Debug\net6.0\ref\05.BasketballEquipment.dll

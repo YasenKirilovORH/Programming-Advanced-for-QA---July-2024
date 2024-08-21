@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D57A8B-30E0-4C50-8DF0-D0635BB01EDC}|10.TopIntegers\\10.TopIntegers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\10.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D57A8B-30E0-4C50-8DF0-D0635BB01EDC}|10.TopIntegers\\10.TopIntegers.csproj|solutionrelative:10.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60ACA0B-3570-4DB5-BC4A-3DEF83615DF7}|09.MaxSequenceOfEqualElements\\09.MaxSequenceOfEqualElements.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\09.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60ACA0B-3570-4DB5-BC4A-3DEF83615DF7}|09.MaxSequenceOfEqualElements\\09.MaxSequenceOfEqualElements.csproj|solutionrelative:09.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0555B6-68F4-451B-9CCC-3D94AEC684C9}|04.SumAdjacentEqualNumbers\\04.SumAdjacentEqualNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\04.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0555B6-68F4-451B-9CCC-3D94AEC684C9}|04.SumAdjacentEqualNumbers\\04.SumAdjacentEqualNumbers.csproj|solutionrelative:04.sumadjacentequalnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE67735-DF17-43A6-B9CE-5FDA8F879E5D}|03.MergingLists\\03.MergingLists.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE67735-DF17-43A6-B9CE-5FDA8F879E5D}|03.MergingLists\\03.MergingLists.csproj|solutionrelative:03.merginglists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EB249-5844-44BB-9086-E0B902C86A10}|06.CardsGame\\06.CardsGame.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EB249-5844-44BB-9086-E0B902C86A10}|06.CardsGame\\06.CardsGame.csproj|solutionrelative:06.cardsgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3C1E15-69D1-46D1-B0FA-0DA63E34EE3B}|07.Zig-ZagArrays\\07.Zig-ZagArrays.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\07.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB3C1E15-69D1-46D1-B0FA-0DA63E34EE3B}|07.Zig-ZagArrays\\07.Zig-ZagArrays.csproj|solutionrelative:07.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85EEC20-EFBC-4F96-B703-6A70A7581EFA}|01.Gauss\u0027Trick\\01.Gauss\u0027Trick.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\01.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85EEC20-EFBC-4F96-B703-6A70A7581EFA}|01.Gauss\u0027Trick\\01.Gauss\u0027Trick.csproj|solutionrelative:01.gauss\u0027trick\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E206C32-3530-47DF-B7F3-FAD3900B58F2}|08.ArrayRotation\\08.ArrayRotation.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\08.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E206C32-3530-47DF-B7F3-FAD3900B58F2}|08.ArrayRotation\\08.ArrayRotation.csproj|solutionrelative:08.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A09FC5C-6BCE-49D2-AC9C-75099C165FFF}|05.BombNumbers\\05.BombNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A09FC5C-6BCE-49D2-AC9C-75099C165FFF}|05.BombNumbers\\05.BombNumbers.csproj|solutionrelative:05.bombnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487BD07-8A84-404C-AD71-505B13A682B3}|02.CondenseArray\u0422oNumber\\02.CondenseArray\u0422oNumber.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\arraysandlists-exercise\\02.condensearray\u0442onumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487BD07-8A84-404C-AD71-505B13A682B3}|02.CondenseArray\u0422oNumber\\02.CondenseArray\u0422oNumber.csproj|solutionrelative:02.condensearray\u0442onumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\10.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "10.TopIntegers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\10.TopIntegers\\Program.cs",
+              "RelativeToolTip": "10.TopIntegers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:19:43.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\09.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "09.MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\09.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "09.MaxSequenceOfEqualElements\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:56:33.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeDocumentMoniker": "06.CardsGame\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\06.CardsGame\\Program.cs",
+              "RelativeToolTip": "06.CardsGame\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T10:14:22.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\04.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "04.SumAdjacentEqualNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\04.SumAdjacentEqualNumbers\\Program.cs",
+              "RelativeToolTip": "04.SumAdjacentEqualNumbers\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:42:11.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\08.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "08.ArrayRotation\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\08.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "08.ArrayRotation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:26:32.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\07.Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "07.Zig-ZagArrays\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\07.Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "07.Zig-ZagArrays\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:11:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.BombNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\05.BombNumbers\\Program.cs",
+              "RelativeToolTip": "05.BombNumbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:45:45.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\03.MergingLists\\Program.cs",
+              "RelativeDocumentMoniker": "03.MergingLists\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\03.MergingLists\\Program.cs",
+              "RelativeToolTip": "03.MergingLists\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:25:32.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\02.CondenseArray\u0422oNumber\\Program.cs",
+              "RelativeDocumentMoniker": "02.CondenseArray\u0422oNumber\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\02.CondenseArray\u0422oNumber\\Program.cs",
+              "RelativeToolTip": "02.CondenseArray\u0422oNumber\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:06:18.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\01.Gauss\u0027Trick\\Program.cs",
+              "RelativeDocumentMoniker": "01.Gauss\u0027Trick\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\ArraysAndLists-Exercise\\01.Gauss\u0027Trick\\Program.cs",
+              "RelativeToolTip": "01.Gauss\u0027Trick\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:51:14.057Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\bin\Debug\net6.0\01.CountCharsIAString.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\bin\Debug\net6.0\01.CountCharsIAString.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\bin\Debug\net6.0\01.CountCharsIAString.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\bin\Debug\net6.0\01.CountCharsIAString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\bin\Debug\net6.0\01.CountCharsIAString.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\refint\01.CountCharsIAString.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\01.CountCharsIAString.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ-Exercise\01.CountCharsIAString\obj\Debug\net6.0\ref\01.CountCharsIAString.dll

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\definingclasses-lab\\carprojects\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|solutionrelative:carprojects\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\definingclasses-lab\\carprojects\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|solutionrelative:carprojects\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\definingclasses-lab\\carprojects\\starup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|solutionrelative:carprojects\\starup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\definingclasses-lab\\carprojects\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F10D166-7C03-4853-9DE2-552549E79210}|CarProjects\\CarProjects.csproj|solutionrelative:carprojects\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tire.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Tire.cs",
+              "RelativeDocumentMoniker": "CarProjects\\Tire.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Tire.cs",
+              "RelativeToolTip": "CarProjects\\Tire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:00:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Engine.cs",
+              "RelativeDocumentMoniker": "CarProjects\\Engine.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Engine.cs",
+              "RelativeToolTip": "CarProjects\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:57:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StarUp.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\StarUp.cs",
+              "RelativeDocumentMoniker": "CarProjects\\StarUp.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\StarUp.cs",
+              "RelativeToolTip": "CarProjects\\StarUp.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:23:33.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Car.cs",
+              "RelativeDocumentMoniker": "CarProjects\\Car.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\DefiningClasses-Lab\\CarProjects\\Car.cs",
+              "RelativeToolTip": "CarProjects\\Car.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwBMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:21:52.473Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

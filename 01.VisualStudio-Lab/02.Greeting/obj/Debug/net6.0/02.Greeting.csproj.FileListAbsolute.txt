@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\bin\Debug\net6.0\02.Greeting.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\refint\02.Greeting.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\02.Greeting.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.VisualStudio-Lab\02.Greeting\obj\Debug\net6.0\ref\02.Greeting.dll

@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\bin\Debug\net6.0\05.DivisionTo2,3And4.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\bin\Debug\net6.0\05.DivisionTo2,3And4.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\bin\Debug\net6.0\05.DivisionTo2,3And4.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\bin\Debug\net6.0\05.DivisionTo2,3And4.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\bin\Debug\net6.0\05.DivisionTo2,3And4.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\refint\05.DivisionTo2,3And4.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\05.DivisionTo2,3And4.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\05.DivisionTo2,3And4\obj\Debug\net6.0\ref\05.DivisionTo2,3And4.dll

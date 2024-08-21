@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\bin\Debug\net6.0\08.MinMaxValues.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\bin\Debug\net6.0\08.MinMaxValues.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\bin\Debug\net6.0\08.MinMaxValues.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\bin\Debug\net6.0\08.MinMaxValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\bin\Debug\net6.0\08.MinMaxValues.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\refint\08.MinMaxValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\08.MinMaxValues.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\08.MinMaxValues\obj\Debug\net6.0\ref\08.MinMaxValues.dll

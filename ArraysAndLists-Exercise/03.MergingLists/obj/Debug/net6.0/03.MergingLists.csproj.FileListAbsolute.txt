@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\bin\Debug\net6.0\03.MergingLists.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\refint\03.MergingLists.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\03.MergingLists.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\03.MergingLists\obj\Debug\net6.0\ref\03.MergingLists.dll

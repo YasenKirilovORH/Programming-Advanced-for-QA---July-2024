@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll

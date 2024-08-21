@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CEECB9-8334-4EB2-BCFF-0027DD302F21}|08.PrimeNumbers\\08.PrimeNumbers.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\08.primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CEECB9-8334-4EB2-BCFF-0027DD302F21}|08.PrimeNumbers\\08.PrimeNumbers.csproj|solutionrelative:08.primenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D696A4-2A99-486A-B1B1-508D48E00EA5}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D696A4-2A99-486A-B1B1-508D48E00EA5}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|solutionrelative:07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7B87D7-9006-4C51-899C-1EC2D657D0A4}|06.TravelSavings\\06.TravelSavings.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7B87D7-9006-4C51-899C-1EC2D657D0A4}|06.TravelSavings\\06.TravelSavings.csproj|solutionrelative:06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F667020B-483E-41F8-9532-966FE260273A}|05.NumberPyramid\\05.NumberPyramid.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F667020B-483E-41F8-9532-966FE260273A}|05.NumberPyramid\\05.NumberPyramid.csproj|solutionrelative:05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D9A41C-C235-492E-8A7D-F5B76928529C}|03.TriangleOfStars\\03.TriangleOfStars.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\03.triangleofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D9A41C-C235-492E-8A7D-F5B76928529C}|03.TriangleOfStars\\03.TriangleOfStars.csproj|solutionrelative:03.triangleofstars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452CCA07-C939-44ED-8F5E-181EABE84ECE}|02.EvenPowersOf2\\02.EvenPowersOf2.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\02.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452CCA07-C939-44ED-8F5E-181EABE84ECE}|02.EvenPowersOf2\\02.EvenPowersOf2.csproj|solutionrelative:02.evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E913D9A-706C-475D-8AB5-C3C8AD95448C}|04.Building\\04.Building.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\04.building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E913D9A-706C-475D-8AB5-C3C8AD95448C}|04.Building\\04.Building.csproj|solutionrelative:04.building\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61194CDB-20BD-42F9-91F6-FD7E6A4CFF8D}|01.NumbersFromNTo1\\01.NumbersFromNTo1.csproj|d:\\programing\\qa\\programming fundamentals and unit testing\\visual studio c#\\nestedloops-lab\\01.numbersfromnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61194CDB-20BD-42F9-91F6-FD7E6A4CFF8D}|01.NumbersFromNTo1\\01.NumbersFromNTo1.csproj|solutionrelative:01.numbersfromnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\08.PrimeNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.PrimeNumbers\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\08.PrimeNumbers\\Program.cs",
+              "RelativeToolTip": "08.PrimeNumbers\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:41:30.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\07.SumOfDigitsCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumOfDigitsCalculator\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\07.SumOfDigitsCalculator\\Program.cs",
+              "RelativeToolTip": "07.SumOfDigitsCalculator\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA/wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:31:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\06.TravelSavings\\Program.cs",
+              "RelativeDocumentMoniker": "06.TravelSavings\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\06.TravelSavings\\Program.cs",
+              "RelativeToolTip": "06.TravelSavings\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA/wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:11:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\05.NumberPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "05.NumberPyramid\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\05.NumberPyramid\\Program.cs",
+              "RelativeToolTip": "05.NumberPyramid\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:44:16.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\04.Building\\Program.cs",
+              "RelativeDocumentMoniker": "04.Building\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\04.Building\\Program.cs",
+              "RelativeToolTip": "04.Building\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:42:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\03.TriangleOfStars\\Program.cs",
+              "RelativeDocumentMoniker": "03.TriangleOfStars\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\03.TriangleOfStars\\Program.cs",
+              "RelativeToolTip": "03.TriangleOfStars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:35:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\02.EvenPowersOf2\\Program.cs",
+              "RelativeDocumentMoniker": "02.EvenPowersOf2\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\02.EvenPowersOf2\\Program.cs",
+              "RelativeToolTip": "02.EvenPowersOf2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:21:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\01.NumbersFromNTo1\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersFromNTo1\\Program.cs",
+              "ToolTip": "D:\\Programing\\QA\\Programming Fundamentals and Unit Testing\\Visual Studio C#\\NestedLoops-Lab\\01.NumbersFromNTo1\\Program.cs",
+              "RelativeToolTip": "01.NumbersFromNTo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T19:17:40.235Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

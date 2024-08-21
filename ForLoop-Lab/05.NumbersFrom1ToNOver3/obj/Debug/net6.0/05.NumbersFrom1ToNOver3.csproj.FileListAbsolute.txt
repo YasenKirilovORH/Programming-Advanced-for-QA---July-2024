@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\bin\Debug\net6.0\05.NumbersFrom1ToNOver3.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\bin\Debug\net6.0\05.NumbersFrom1ToNOver3.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\bin\Debug\net6.0\05.NumbersFrom1ToNOver3.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\bin\Debug\net6.0\05.NumbersFrom1ToNOver3.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\bin\Debug\net6.0\05.NumbersFrom1ToNOver3.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\refint\05.NumbersFrom1ToNOver3.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\05.NumbersFrom1ToNOver3.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ForLoop-Lab\05.NumbersFrom1ToNOver3\obj\Debug\net6.0\ref\05.NumbersFrom1ToNOver3.dll

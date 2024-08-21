@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\refint\02.OddOccurrences.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\02.OddOccurrences\obj\Debug\net6.0\ref\02.OddOccurrences.dll

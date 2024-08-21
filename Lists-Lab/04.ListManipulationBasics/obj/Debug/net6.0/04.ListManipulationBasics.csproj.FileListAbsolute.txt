@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\bin\Debug\net6.0\04.ListManipulationBasics.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\refint\04.ListManipulationBasics.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\04.ListManipulationBasics.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Lists-Lab\04.ListManipulationBasics\obj\Debug\net6.0\ref\04.ListManipulationBasics.dll

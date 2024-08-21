@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\bin\Debug\net6.0\02.CalculateSpeed.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\refint\02.CalculateSpeed.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\02.CalculateSpeed.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DataTypesAndVariables-Lab\02.CalculateSpeed\obj\Debug\net6.0\ref\02.CalculateSpeed.dll

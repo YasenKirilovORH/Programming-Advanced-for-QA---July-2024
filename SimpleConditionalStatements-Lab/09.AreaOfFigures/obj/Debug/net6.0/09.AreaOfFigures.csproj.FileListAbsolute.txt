@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\refint\09.AreaOfFigures.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleConditionalStatements-Lab\09.AreaOfFigures\obj\Debug\net6.0\ref\09.AreaOfFigures.dll

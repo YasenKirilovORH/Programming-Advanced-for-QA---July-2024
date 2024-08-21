@@ -1,0 +1,15 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\bin\Debug\net6.0\03.WordSynonyms.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\refint\03.WordSynonyms.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\ref\03.WordSynonyms.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Dictionaries,LambdaAndLINQ -Lab\03.WordSynonyms\obj\Debug\net6.0\03.WordSynonyms.sourcelink.json

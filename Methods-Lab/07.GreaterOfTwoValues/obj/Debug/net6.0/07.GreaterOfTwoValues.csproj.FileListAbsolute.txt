@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\bin\Debug\net6.0\07.GreaterOfTwoValues.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\refint\07.GreaterOfTwoValues.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\07.GreaterOfTwoValues.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\Methods-Lab\07.GreaterOfTwoValues\obj\Debug\net6.0\ref\07.GreaterOfTwoValues.dll

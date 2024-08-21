@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fR7Ewxun5p8gkI9d2LsE0kDMqrGj3DXlhbG1NhXE89ugAPRi7bKpYHuF9NGnX6QA+UEsak1475IZByxcORh0bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasen\\Desktop\\Exam Preparation\\Exam Preparation 2\\Exam-Preparation-2-Resources\\03-ToDo-Resources\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Yasen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

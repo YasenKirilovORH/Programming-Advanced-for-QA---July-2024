@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\bin\Debug\net6.0\03.TeamworkProjects.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\refint\03.TeamworkProjects.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\03.TeamworkProjects.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ObjectsAndClasses-Exercise\03.TeamworkProjects\obj\Debug\net6.0\ref\03.TeamworkProjects.dll

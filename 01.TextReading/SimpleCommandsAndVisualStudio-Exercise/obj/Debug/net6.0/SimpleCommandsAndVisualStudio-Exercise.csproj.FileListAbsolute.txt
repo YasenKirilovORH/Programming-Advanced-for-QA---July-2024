@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\bin\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\bin\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\bin\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\bin\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\bin\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\refint\SimpleCommandsAndVisualStudio-Exercise.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\SimpleCommandsAndVisualStudio-Exercise.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.TextReading\SimpleCommandsAndVisualStudio-Exercise\obj\Debug\net6.0\ref\SimpleCommandsAndVisualStudio-Exercise.dll

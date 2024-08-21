@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\bin\Debug\net6.0\07.Zig-ZagArrays.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\bin\Debug\net6.0\07.Zig-ZagArrays.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\bin\Debug\net6.0\07.Zig-ZagArrays.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\bin\Debug\net6.0\07.Zig-ZagArrays.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\bin\Debug\net6.0\07.Zig-ZagArrays.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\refint\07.Zig-ZagArrays.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\07.Zig-ZagArrays.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\07.Zig-ZagArrays\obj\Debug\net6.0\ref\07.Zig-ZagArrays.dll

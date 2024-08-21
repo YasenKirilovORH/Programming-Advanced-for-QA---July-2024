@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\bin\Debug\net6.0\GuessGame.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\bin\Debug\net6.0\GuessGame.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\bin\Debug\net6.0\GuessGame.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\bin\Debug\net6.0\GuessGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\bin\Debug\net6.0\GuessGame.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\refint\GuessGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\GuessGame.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\DoWhileGame\GuessGame\obj\Debug\net6.0\ref\GuessGame.dll

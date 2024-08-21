@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\bin\Debug\net6.0\02.MaxMinInRange.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\bin\Debug\net6.0\02.MaxMinInRange.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\bin\Debug\net6.0\02.MaxMinInRange.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\bin\Debug\net6.0\02.MaxMinInRange.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\bin\Debug\net6.0\02.MaxMinInRange.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\refint\02.MaxMinInRange.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\02.MaxMinInRange.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ExamPreparation\02.MaxMinInRange\obj\Debug\net6.0\ref\02.MaxMinInRange.dll

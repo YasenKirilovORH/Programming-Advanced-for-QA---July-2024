@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\bin\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\refint\02.MultiplicationTable.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\02.MultiplicationTable.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\01.PowerOfNumber\02.MultiplicationTable\obj\Debug\net6.0\ref\02.MultiplicationTable.dll

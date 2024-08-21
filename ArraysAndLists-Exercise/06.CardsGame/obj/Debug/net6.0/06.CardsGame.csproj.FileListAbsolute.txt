@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\bin\Debug\net6.0\06.CardsGame.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\refint\06.CardsGame.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\06.CardsGame.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ArraysAndLists-Exercise\06.CardsGame\obj\Debug\net6.0\ref\06.CardsGame.dll

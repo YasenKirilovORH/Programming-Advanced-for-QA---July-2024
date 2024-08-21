@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\refint\02.LargestNumberOutOfThree.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\ComplexConditionalStatements-Lab\02.LargestNumberOutOfThree\obj\Debug\net6.0\ref\02.LargestNumberOutOfThree.dll

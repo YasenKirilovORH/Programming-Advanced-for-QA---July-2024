@@ -1,0 +1,14 @@
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\bin\Debug\net6.0\01.ConvertorUSDtoEUR.exe
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\bin\Debug\net6.0\01.ConvertorUSDtoEUR.deps.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\bin\Debug\net6.0\01.ConvertorUSDtoEUR.runtimeconfig.json
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\bin\Debug\net6.0\01.ConvertorUSDtoEUR.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\bin\Debug\net6.0\01.ConvertorUSDtoEUR.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.AssemblyInfoInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.AssemblyInfo.cs
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.csproj.CoreCompileInputs.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\refint\01.ConvertorUSDtoEUR.dll
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.pdb
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\01.ConvertorUSDtoEUR.genruntimeconfig.cache
+D:\Programing\QA\Programming Fundamentals and Unit Testing\Visual Studio C#\SimpleCalculations-Lab\01.ConvertorUSDtoEUR\obj\Debug\net6.0\ref\01.ConvertorUSDtoEUR.dll
