@@ -1,4 +1,4 @@
-﻿namespace _02.SumAnArray
+namespace _02.SumAnArray
 {
     internal class Program
     {

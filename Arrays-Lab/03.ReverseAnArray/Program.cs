@@ -1,4 +1,4 @@
-﻿namespace _03.ReverseAnArray
+namespace _03.ReverseAnArray
 {
     internal class Program
     {

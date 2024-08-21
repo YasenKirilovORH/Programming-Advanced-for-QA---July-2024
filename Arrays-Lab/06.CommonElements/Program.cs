@@ -1,4 +1,4 @@
-﻿namespace _06.CommonElements
+namespace _06.CommonElements
 {
     internal class Program
     {

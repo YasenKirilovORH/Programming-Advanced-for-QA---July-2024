@@ -1,4 +1,4 @@
-﻿namespace _01.DayOfWeek
+namespace _01.DayOfWeek
 {
     internal class Program
     {

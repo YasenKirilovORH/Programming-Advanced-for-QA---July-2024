@@ -1,4 +1,4 @@
-﻿namespace _05.EqualArrays
+namespace _05.EqualArrays
 {
     internal class Program
     {
