@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string secretWord = "yasen";
+            string secretWord = "Yasen";
             string guess = "";
             int guessCount = 0;
             int guessLimit = 3;
